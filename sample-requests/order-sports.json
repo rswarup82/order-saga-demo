@@ -1,0 +1,18 @@
+{
+  "customerId": "CUST-002",
+  "items": [
+    {
+      "productId": "PROD-101",
+      "productName": "Running Shoes - Nike Air",
+      "quantity": 1,
+      "unitPrice": 129.99
+    },
+    {
+      "productId": "PROD-102",
+      "productName": "Sports Water Bottle",
+      "quantity": 2,
+      "unitPrice": 19.99
+    }
+  ],
+  "totalAmount": 169.97
+}
